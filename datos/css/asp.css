@@ -1,0 +1,41 @@
+BODY {
+	PADDING-RIGHT: 0px; BORDER-TOP: #8ca91b 7px solid; PADDING-LEFT: 0px; BACKGROUND: #fff; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #666; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif}
+#header {
+	BACKGROUND:  url(file:///C|/Documents%20and%20Settings/Hugo/Mis%20documentos/MIS%20WEBS/new%20menu/Art&#237;culos%20Dise&#241;o%20Web%20-%20Nuestro%20primer%20banner_archivos/images/logo_asp.png) no-repeat 20px 10px; FLOAT: left; WIDTH: 61%
+}
+DIV#content A {
+	COLOR: #8ca91b; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #8ca91b; TEXT-DECORATION: none
+}
+#meni LI A:hover {
+	BORDER-TOP: #f6f6f6 1px solid; BACKGROUND: #8ca91b; COLOR: #fff; BORDER-BOTTOM: #e2e2e2 1px solid
+}
+A:unknown {
+	BORDER-TOP: #f6f6f6 1px solid; BACKGROUND: #8ca91b; COLOR: #fff; BORDER-BOTTOM: #e2e2e2 1px solid
+}
+A:active {
+	BORDER-TOP: #f6f6f6 1px solid; BACKGROUND: #8ca91b; COLOR: #fff; BORDER-BOTTOM: #e2e2e2 1px solid
+}
+DIV#content2 .separator H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; FONT: bold 0.8em/1.5em Arial, sans-serif; COLOR: #8ca91b; PADDING-TOP: 0px
+}
+.pub {
+	BACKGROUND: #8ca91b; MARGIN: 0px
+}
+DIV.clear {
+	CLEAR: both; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; BACKGROUND: #8ca91b; PADDING-BOTTOM: 5px; MARGIN: 0px; FONT: 0.8em/1.8em "Trebuchet MS", Arial, sans-serif; COLOR: #fff; PADDING-TOP: 5px
+}
+DIV.clear A {
+	CLEAR: both; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; BACKGROUND: #8ca91b; PADDING-BOTTOM: 5px; MARGIN: 0px; FONT: 0.8em/1.8em "Trebuchet MS", Arial, sans-serif; COLOR: #fff; PADDING-TOP: 5px
+}
+.entry PRE {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; MARGIN-LEFT: 25px; OVERFLOW: scroll; BORDER-LEFT: #8ca91b 5px solid; WIDTH: 75%; MARGIN-RIGHT: 25px
+}
+#contenedor #commentform #submit {
+	BORDER-RIGHT: #bbb 1px outset; PADDING-RIGHT: 5px; BORDER-TOP: #bbb 1px outset; PADDING-LEFT: 5px; FLOAT: left; PADDING-BOTTOM: 5px; MARGIN: 5px 5px 1px 0px; BORDER-LEFT: #bbb 1px outset; COLOR: #fff; PADDING-TOP: 5px; BORDER-BOTTOM: #bbb 1px outset; BACKGROUND-COLOR: #8ca91b
+}
+#comentarios B {
+	COLOR: #8ca91b
+}
